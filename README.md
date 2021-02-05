@@ -13,3 +13,5 @@ Ricardo Apuy
 Camila Vargas
 
 Reymond Rodriguez
+
+Kimberly Corea
