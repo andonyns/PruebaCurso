@@ -11,3 +11,5 @@ Gonzalo Morales
 Ricardo Apuy
 
 Camila Vargas
+
+Reymond Rodriguez
