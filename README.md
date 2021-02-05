@@ -7,3 +7,5 @@ Este es un repositorio de prueba
 Andony Núñez
 
 Gonzalo Morales
+
+Ricardo Apuy
