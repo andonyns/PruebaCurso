@@ -12,6 +12,7 @@ namespace PruebaCurso
             Console.WriteLine("Ejercicio de Andony: ");
             var suma = new SumaNumeros();
             Console.WriteLine(suma.Sum(1, 2));
+		    Prueba.Respuesta("hola");
 
 
             Console.WriteLine("Ejercicio de Gonzalo: ");
