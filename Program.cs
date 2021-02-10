@@ -13,6 +13,11 @@ namespace PruebaCurso
             var suma = new SumaNumeros();
             Console.WriteLine(suma.Sum(1, 2));
 
+
+            Console.WriteLine("Ejercicio de Kimberly: ");
+            var multi = new MultiplicacionNumeros();
+            Console.WriteLine(multi.Mult(5, 7));
+
         }
     }
 }
