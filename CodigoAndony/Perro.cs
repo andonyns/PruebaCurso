@@ -6,11 +6,12 @@ namespace Ejemplo
     class Perro : Animal
     {
         private int edad;
-        public Perro(string nuevoNombre, int nuevaEdad)
+        private string raza;
+        public Perro(string nuevoNombre, int nuevaEdad, string nuevaRaza)
         {
             nombre = nuevoNombre;
             edad = nuevaEdad;
-            //Constructor
+            raza = nuevaRaza;
         }
 
         public Perro()
