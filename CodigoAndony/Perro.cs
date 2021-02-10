@@ -10,6 +10,7 @@ namespace Ejemplo
         {
             nombre = nuevoNombre;
             edad = nuevaEdad;
+            //Constructor
         }
 
         public Perro()
