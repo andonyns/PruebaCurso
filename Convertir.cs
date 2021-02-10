@@ -2,7 +2,7 @@ using System;
 
 namespace PruebaCurso
 {
-    class descripcionDelEjercicio
+    class Convertir
     {
         	public int convert(int hours) 
 	    {

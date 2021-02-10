@@ -13,7 +13,7 @@ namespace PruebaCurso
             var suma = new SumaNumeros();
             Console.WriteLine(suma.Sum(1, 2));
             Console.WriteLine("Ejercicio de Reymond");
-             var resultado = new descripcionDelEjercicio();
+             var resultado = new Convertir();
              Console.WriteLine(resultado.convert(4));
 
         }
