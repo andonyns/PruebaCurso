@@ -6,7 +6,7 @@ namespace PruebaCurso
     {
         const int V = 2;
 
-        public static int triArea(int b, int h)
+        public int triArea(int b, int h)
 	{
 		return b*h / V;
 		
