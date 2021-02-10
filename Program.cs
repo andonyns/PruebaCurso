@@ -19,6 +19,8 @@ namespace PruebaCurso
             var area = new areaTriandulo();
             Console.WriteLine(area.triArea(12, 32));
 
+            Console.WriteLine("Ejercicio de Kevin: ")
+            Console.WriteLine(AgeToDays.CalcEdad(15));
         }
     }
 }
