@@ -13,6 +13,11 @@ namespace PruebaCurso
             var suma = new SumaNumeros();
             Console.WriteLine(suma.Sum(1, 2));
 
+
+            Console.WriteLine("Ejercicio de Gonzalo: ");
+            var area = new areaTriandulo();
+            Console.WriteLine(area.triArea(12, 32));
+
         }
     }
 }

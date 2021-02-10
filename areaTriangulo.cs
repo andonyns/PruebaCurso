@@ -4,9 +4,11 @@ namespace PruebaCurso
 {
     class areaTriandulo
     {
-       	public static int triArea(int b, int h)
+        const int V = 2;
+
+        public static int triArea(int b, int h)
 	{
-		return b*h / 2;
+		return b*h / V;
 		
 	}
     }
