@@ -21,6 +21,11 @@ namespace PruebaCurso
 
             Console.WriteLine("Ejercicio de Kevin: ")
             Console.WriteLine(AgeToDays.CalcEdad(15));
+
+            Console.WriteLine("Ejercicio de Kimberly: ");
+            var multi = new MultiplicacionNumeros();
+            Console.WriteLine(multi.Mult(5, 7));
+
         }
     }
 }
