@@ -7,6 +7,12 @@ namespace PruebaCurso
         static void Main(string[] args)
         {
             Console.WriteLine("Ejercicio del curso!");
+
+
+            Console.WriteLine("Ejercicio de Andony: ");
+            var suma = new SumaNumeros();
+            Console.WriteLine(suma.Sum(1, 2));
+
         }
     }
 }
