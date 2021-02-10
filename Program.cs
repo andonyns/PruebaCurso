@@ -19,14 +19,9 @@ namespace PruebaCurso
             var area = new areaTriandulo();
             Console.WriteLine(area.triArea(12, 32));
 
-<<<<<<< HEAD
             Console.WriteLine("Ejercicio de Jeremy: ");
             var contarNum = new Conteo();
             contarNum.Contar();
-=======
-            Console.WriteLine("Ejercicio de Kevin: ")
-            Console.WriteLine(AgeToDays.CalcEdad(15));
->>>>>>> 0d2dcdace9f7a9de7b4b3cdf440ac91c5ced5d59
 
             Console.WriteLine("Ejercicio de Kimberly: ");
             var multi = new MultiplicacionNumeros();
