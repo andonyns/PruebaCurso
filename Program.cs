@@ -19,6 +19,11 @@ namespace PruebaCurso
             var area = new areaTriandulo();
             Console.WriteLine(area.triArea(12, 32));
 
+
+            Console.WriteLine("Ejercicio de Kimberly: ");
+            var multi = new MultiplicacionNumeros();
+            Console.WriteLine(multi.Mult(5, 7));
+
         }
     }
 }
