@@ -25,6 +25,9 @@ namespace PruebaCurso
             Console.WriteLine("Ejercicio de Kimberly: ");
             var multi = new MultiplicacionNumeros();
             Console.WriteLine(multi.Mult(5, 7));
+            Console.WriteLine("Ejercicio de Reymond");
+             var resultado = new Convertir();
+             Console.WriteLine(resultado.convert(4));
 
         }
     }
