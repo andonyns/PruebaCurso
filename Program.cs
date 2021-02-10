@@ -13,6 +13,10 @@ namespace PruebaCurso
             var suma = new SumaNumeros();
             Console.WriteLine(suma.Sum(1, 2));
 
+            Console.WriteLine("Ejercicio de Jeremy: ");
+            var contarNum = new Conteo();
+            contarNum.Contar();
+
         }
     }
 }
