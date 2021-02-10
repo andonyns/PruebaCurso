@@ -12,6 +12,7 @@ namespace Ejemplo
             nombre = nuevoNombre;
             edad = nuevaEdad;
             raza = nuevaRaza;
+            //Constructor, favor no borrar porque es un recordatorio
         }
 
         public Perro()
